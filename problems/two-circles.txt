@@ -1,0 +1,1 @@
+Create an image that contains two non-overlapping circles.
