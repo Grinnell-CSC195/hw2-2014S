@@ -1,0 +1,6 @@
+#lang racket
+(require gigls/unsafe)
+(require psaifr/main)
+
+;;I want to try to make a ring in the center of the image, ie a dark circle with a white middle.
+
