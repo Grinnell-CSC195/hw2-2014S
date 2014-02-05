@@ -42,3 +42,9 @@
 (image-show (psaifr-greyscale-image 
              (lambda (x y) 
                (sign (abs (add x y)))) 100 100 10))
+
+;Answer to problem
+;creates an image of a diamond shape
+(image-show (psaifr-greyscale-image 
+             (lambda (x y) 
+               (abs (cosine (sine (* x y))))) 100 100 10))
