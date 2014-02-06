@@ -1,0 +1,63 @@
+#lang racket
+(require gigls/unsafe)
+(require psaifr/main)
+
+;;Exercise 1
+
+;(psaifr-greyscale-image 
+;  (lambda (x y) (sign y))
+;  100 100 10)
+
+;(psaifr-greyscale-image
+; (lambda (x y) 
+;   (+ x x y)) 
+; 100 100 10)
+
+;(psaifr-greyscale-image
+; (lambda (x y) 
+;   (- (* y x))) 
+; 100 100 10)
+
+;(psaifr-greyscale-image
+; (lambda (x y) 
+;   (wrap (sine x))) 
+; 100 100 10)
+
+;;;Exercise 2
+;(psaifr-greyscale-image
+; (lambda (x y) 
+;   (sign (+ x y)))
+; 100 100 10)
+
+;;;Exercise 3
+;(psaifr-greyscale-image
+; (lambda (x y) 
+;   (sign (- y x))) 
+; 100 100 10)
+
+;;;Exercise 4
+;(psaifr-greyscale-image
+; (lambda (x y) 
+;   (sign (add -1 (+ (expt x 2) (expt y 2))))) 
+; 100 100 10)
+
+;;;Exercsie 5
+;(psaifr-greyscale-image
+; (lambda (x y)
+;   (sign (abs (* x x)))) 
+; 100 100 10)
+
+;;;Exercise 6
+;(psaifr-greyscale-image
+; (lambda (x y)
+;   (sign (abs (* y y y)))) 
+; 100 100 10)
+
+;;;Exercise 7
+;(psaifr-greyscale-image
+; (lambda (x y)
+;   (sign (abs (- x y)))) 
+; 100 100 10)
+
+
+
