@@ -1,0 +1,2 @@
+Create an image that is completely black, apart from a grey line running
+from the bottom left corner to the top right corner.
