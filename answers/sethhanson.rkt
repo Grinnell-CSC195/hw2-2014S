@@ -40,6 +40,6 @@
 ;;;   7
 (define thin-line
   (lambda (x y)
-    (sign (abs y))))
+    (sign (abs (+ y x)))))
 ;(image-show (psaifr-greyscale-illustration '(sign (abs y)) 400 10))
 
