@@ -1,3 +1,2 @@
-Make an image of a sine graph where the holes generated between the sine
-line and the zero line are filled black.
+Make an image of a sine graph, black under the curve.
 
