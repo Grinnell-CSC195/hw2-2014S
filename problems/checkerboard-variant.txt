@@ -1,0 +1,1 @@
+Create a checkerboard variant that merges with its diagonal compliment in smooth fashion. 
