@@ -1,0 +1,1 @@
+Create an image which contains a four-pointed "star" with legs along with positive and negative x and y axis.  

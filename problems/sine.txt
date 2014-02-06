@@ -1,0 +1,2 @@
+Make an image of a sine graph, black under the curve.
+
