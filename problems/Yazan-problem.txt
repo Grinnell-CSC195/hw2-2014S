@@ -1,0 +1,1 @@
+I want to have some type of image that has different shading vertical lines. I don't want them to all look the same (i.e. one pixel row white, next pixel row black, next pixel row white, and so on), I want each to look different. 
