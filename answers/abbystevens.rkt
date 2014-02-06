@@ -20,3 +20,6 @@
 ;(7)thin diagonal line
 ;(image-show (psaifr-greyscale-illustration '(abs (sign (+ y x))) 100 10))
 
+;I could not come up with a solution to my problem. I tried a few modifications 
+;to the circle, and it didn't really work. That's ok.
+
